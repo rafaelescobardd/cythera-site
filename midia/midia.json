@@ -1,16 +1,4 @@
 {
- "gif: o grafo do mundo se arrumando": {
-  "img": "midia/tudo-ligado.jpg",
-  "alt": "O grafo do mundo no Cythera, com as entradas e as ligações entre elas"
- },
- "timelapse: do mural pra linha do tempo": {
-  "img": "midia/do-mural-a-linha-do-tempo.jpg",
-  "alt": "A linha do tempo do Cythera, com os eventos do mundo em ordem"
- },
- "timelapse: criando uma língua e escrevendo com ela": {
-  "img": "midia/uma-lingua-do-zero.jpg",
-  "alt": "Uma língua inventada no Cythera, com o dicionário de palavras"
- },
  "timelapse: um moodboard no mural": {
   "video": "midia/quadro-de-referencias.mp4",
   "poster": "midia/quadro-de-referencias.jpg",
@@ -30,9 +18,5 @@
   "video": "midia/familias-e-mapas.mp4",
   "poster": "midia/familias-e-mapas.jpg",
   "alt": "Uma árvore genealógica com retratos crescendo, e o mapa de Valyoth ganhando lugar, nome, área, rota e nota"
- },
- "captura: uma ficha e um handout": {
-  "img": "midia/a-mesa-pronta.jpg",
-  "alt": "Uma ficha de Pathfinder 2e no Criador de personagens do Cythera"
  }
 }

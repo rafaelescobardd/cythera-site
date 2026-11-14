@@ -14,22 +14,22 @@
  "timelapse: um moodboard no mural": {
   "video": "midia/quadro-de-referencias.mp4",
   "poster": "midia/quadro-de-referencias.jpg",
-  "alt": "Um quadro de referências sendo montado no Mural do Cythera"
+  "alt": "O quadro de planejamento de sessões no Mural do Cythera, com fundo novo, fios, imagens e um handout escrito em runas"
  },
  "timelapse: um estilo de CSS mudando o app": {
   "video": "midia/com-a-sua-cara.mp4",
   "poster": "midia/com-a-sua-cara.jpg",
-  "alt": "O Cythera trocando de estilo, em vários temas feitos com CSS"
+  "alt": "A linha do tempo e a Biblioteca do Cythera trocando de estilo"
  },
  "timelapse: um capítulo com o mundo ao lado": {
-  "video": "midia/a-historia-escrita.mp4",
-  "poster": "midia/a-historia-escrita.jpg",
-  "alt": "Um parágrafo sendo escrito no Editor do Cythera, com os nomes ligados às fichas"
+  "video": "midia/a-historia-escrita-e-diagramada.mp4",
+  "poster": "midia/a-historia-escrita-e-diagramada.jpg",
+  "alt": "Um capítulo escrito no Editor do Cythera, com personagens criados no texto, e a página montada no modo designer"
  },
  "captura: a árvore e o mapa": {
   "video": "midia/familias-e-mapas.mp4",
   "poster": "midia/familias-e-mapas.jpg",
-  "alt": "Uma árvore genealógica ganhando pessoas, e um mapa ganhando lugares, no Cythera"
+  "alt": "Uma árvore genealógica com retratos crescendo, e o mapa de Valyoth ganhando lugar, nome, área, rota e nota"
  },
  "captura: uma ficha e um handout": {
   "img": "midia/a-mesa-pronta.jpg",

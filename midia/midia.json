@@ -1,0 +1,38 @@
+{
+ "gif: o grafo do mundo se arrumando": {
+  "img": "midia/tudo-ligado.jpg",
+  "alt": "O grafo do mundo no Cythera, com as entradas e as ligações entre elas"
+ },
+ "timelapse: do mural pra linha do tempo": {
+  "img": "midia/do-mural-a-linha-do-tempo.jpg",
+  "alt": "A linha do tempo do Cythera, com os eventos do mundo em ordem"
+ },
+ "timelapse: criando uma língua e escrevendo com ela": {
+  "img": "midia/uma-lingua-do-zero.jpg",
+  "alt": "Uma língua inventada no Cythera, com o dicionário de palavras"
+ },
+ "timelapse: um moodboard no mural": {
+  "video": "midia/quadro-de-referencias.mp4",
+  "poster": "midia/quadro-de-referencias.jpg",
+  "alt": "Um quadro de referências sendo montado no Mural do Cythera"
+ },
+ "timelapse: um estilo de CSS mudando o app": {
+  "video": "midia/com-a-sua-cara.mp4",
+  "poster": "midia/com-a-sua-cara.jpg",
+  "alt": "O Cythera trocando de estilo, em vários temas feitos com CSS"
+ },
+ "timelapse: um capítulo com o mundo ao lado": {
+  "video": "midia/a-historia-escrita.mp4",
+  "poster": "midia/a-historia-escrita.jpg",
+  "alt": "Um parágrafo sendo escrito no Editor do Cythera, com os nomes ligados às fichas"
+ },
+ "captura: a árvore e o mapa": {
+  "video": "midia/familias-e-mapas.mp4",
+  "poster": "midia/familias-e-mapas.jpg",
+  "alt": "Uma árvore genealógica ganhando pessoas, e um mapa ganhando lugares, no Cythera"
+ },
+ "captura: uma ficha e um handout": {
+  "img": "midia/a-mesa-pronta.jpg",
+  "alt": "Uma ficha de Pathfinder 2e no Criador de personagens do Cythera"
+ }
+}

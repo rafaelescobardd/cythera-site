@@ -18,5 +18,25 @@
   "video": "midia/familias-e-mapas.mp4",
   "poster": "midia/familias-e-mapas.jpg",
   "alt": "Uma árvore genealógica com retratos crescendo, e o mapa de Valyoth ganhando lugar, nome, área, rota e nota"
+ },
+ "gif: o grafo do mundo se arrumando": {
+  "video": "midia/tudo-ligado.mp4",
+  "poster": "midia/tudo-ligado.jpg",
+  "alt": "O grafo do mundo do Cythera em movimento, depois a Biblioteca com fichas e vitrine, a Linha do tempo e o Mural"
+ },
+ "timelapse: do mural pra linha do tempo": {
+  "video": "midia/do-mural-a-linha-do-tempo.mp4",
+  "poster": "midia/do-mural-a-linha-do-tempo.jpg",
+  "alt": "Um quadro novo montado no Mural e os eventos dele postos na Linha do tempo, com um evento novo escrito"
+ },
+ "timelapse: criando uma língua e escrevendo com ela": {
+  "video": "midia/uma-lingua-do-zero.mp4",
+  "poster": "midia/uma-lingua-do-zero.jpg",
+  "alt": "Um símbolo de alfabeto desenhado no Criar línguas, e a escrita inventada usada no Editor e num handout"
+ },
+ "captura: uma ficha e um handout": {
+  "video": "midia/a-mesa-pronta.mp4",
+  "poster": "midia/a-mesa-pronta.jpg",
+  "alt": "Fichas de Pathfinder 2e e D&D 5.5 montadas no construtor, e o soundboard da Área do Mestre tocando"
  }
 }
